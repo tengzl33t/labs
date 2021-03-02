@@ -1,0 +1,24 @@
+# Sense 1
+- name  : sense1
+  type  : float
+  value : 31
+
+# sense 2
+- name  : sense2
+  type  : number
+  value : 1488
+
+# Sense 3
+- name  : sense3
+  type  : int32_t
+  value : 0
+
+- name  : sense4
+  type  : int32_t
+  value : 0
+- name  : sense5
+  type  : int32_t
+  value : 0
+- name  : sense6
+  type  : int32_t
+  value : 0
