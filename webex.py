@@ -5,7 +5,7 @@ print("Creating a space or a room")
 print ("Current date and time: ")
 print(datetime.datetime.now())
 #Get the personal access token at https://developer.webex.com/docs/api/v1/rooms/create-a-room
-current_access_token = "ZmRjY2E0OTMtNmNkZS00N2E5LTk1MjMtZThmMDIzOGMwMWNhMDg0ZDg1NjctNmE3_PE93_cb22bf91-b84e-4c50-ab49-cd704940b921"
+current_access_token = ""
 access_token = current_access_token
 url = 'https://api.ciscospark.com/v1/rooms'
 headers = {
